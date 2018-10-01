@@ -3,4 +3,29 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="darker_red">#8D230F</color>
+    <color name="darker_blue">#1E434C</color>
+    <color name="darker_brown">#9B4F0F</color>
+    <color name="darker_yellow">#C99E10</color>
+    <color name="white">#ffffff</color>
+
+    <!--From Desc color-->
+    <color name="warnaorange">#9b4f0f</color>
+    <color name="warnamerah">#8d230f</color>
+    <color name="warnakuning">#C99E10</color>
+    <color name="warnabiru">#1E434C</color>
+    <!--End Of Desc Color-->
+
+    <!--From Fasilitas-->
+    <color name="hitam">#000000</color>
+    <color name="oranye">#9B4F0F</color>
+    <color name="merah">#8D230F</color>
+    <!--End of Fasilitas Color-->
+
+    <!--From Opini Color-->
+    <color name="colormerah">#8D230F</color>
+    <color name="colorbiru">#1E434C</color>
+    <color name="colororen">#9B4F0F</color>
+    <color name="colorkuning">#C99E10</color>
+    <!--End Of Opini Color-->
 </resources>

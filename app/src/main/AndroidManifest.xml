@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DeskripsiActivity" />
+        <activity android:name=".GambarMusiumActivity" />
+        <activity android:name=".FasilitasActivity" />
+        <activity android:name=".OpiniActivity"></activity>
     </application>
 
 </manifest>
